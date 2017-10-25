@@ -1,0 +1,8 @@
+class homework10657025{
+    public static void main(String[] args) {
+        
+        System.out.println("Ona sentitzen dut");
+        System.out.println("He pai ahau");
+        System.out.println("???? ????????");
+    }
+}
